@@ -12,4 +12,14 @@ Eche un vistazo a algunos de mis proyectos de código abierto en GitHub :octocat
   <img src="https://cygcolombia.com/imggit/flutter-logo-sharing.png" width="100">
   <img src="https://cygcolombia.com/imggit/laravel.png" width="100">
   <img src="https://cygcolombia.com/imggit/oracle.png" width="100">
+  <img src="https://cygcolombia.com/imggit/java.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/springboot.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/php.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/dart.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/sqlserver.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/mysql.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/possgress.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/sqllite.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/rectjs.jpg" width="100">
+  <img src="https://cygcolombia.com/imggit/vue.jpg" width="100">
 </div>
